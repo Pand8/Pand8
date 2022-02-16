@@ -1,16 +1,16 @@
 # belajar
+
 Opo iki Cok
---
 
 
-14 juni
+**14 juni**
 Pertama main github ygy
--anu
--ani
--ana
--ina
+* anu
+* ani
+* ana
+* ina
 
-15 Juni 2021
+__15 Juni 2021__
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
